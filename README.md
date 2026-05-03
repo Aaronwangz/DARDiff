@@ -4,11 +4,11 @@
 
 ## 🧠 Network Architecture
 
-![Network Architecture](images/1.png)
+![Network Architecture](images/all.png)
 
 ---
 ## 📊 Visualize the results
-![Visualize the results](images/thin.jpg)![Visualize the results](images/moderate.jpg)!
+![Visualize the results](images/01.png)![Visualize the results](images/02.png)!
 
 ---
 
