@@ -8,7 +8,7 @@
 
 ---
 ## 📊 Visualize the results
-![Visualize the results](images/01.png)![Visualize the results](images/02.png)!
+![Visualize the results](images/01.png)![Visualize the results](images/02.png)
 
 ---
 
